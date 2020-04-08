@@ -1,0 +1,1 @@
+/Users/gunasegarran/Downloads/ML iOS/LocatingAndDisplayingRecognizedTextOnADocument/Build/Intermediates.noindex/ArchiveIntermediates/SimpleTextRecognition/InstallationBuildProductsLocation/Applications/SimpleTextRecognition.app

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "fee1ff057f5e669e70cc37929f57f02d"
+build_time: [1586355566, 50610000]
+inputs:
+  "/Users/gunasegarran/Downloads/ML iOS/LocatingAndDisplayingRecognizedTextOnADocument/SimpleTextRecognition/ViewController.swift": [9223372036, 854775807]
+  "/Users/gunasegarran/Downloads/ML iOS/LocatingAndDisplayingRecognizedTextOnADocument/SimpleTextRecognition/AppDelegate.swift": [9223372036, 854775807]
